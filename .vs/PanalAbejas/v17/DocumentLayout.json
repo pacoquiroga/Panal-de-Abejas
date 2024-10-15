@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|c:\\users\\paqui\\desktop\\espe\\quinto_semestre\\grafica\\primer_parcial\\panalabejas\\panalabejas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|solutionrelative:panalabejas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\panalabejas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|solutionrelative:panalabejas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\panalabejas\\panal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|solutionrelative:panalabejas\\panal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\panalabejas\\hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|solutionrelative:panalabejas\\hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\panalabejas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5215DE-3BE3-4D57-BDBE-8E62F389E4A5}|PanalAbejas\\PanalAbejas.csproj|solutionrelative:panalabejas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PanalAbejas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Form1.Designer.cs",
+              "RelativeToolTip": "PanalAbejas\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:41:02.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Panal.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Panal.cs",
+              "RelativeDocumentMoniker": "PanalAbejas\\Panal.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Panal.cs",
+              "RelativeToolTip": "PanalAbejas\\Panal.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:54:45.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Form1.cs",
+              "RelativeDocumentMoniker": "PanalAbejas\\Form1.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Form1.cs",
+              "RelativeToolTip": "PanalAbejas\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:35:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hexagono.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Hexagono.cs",
+              "RelativeDocumentMoniker": "PanalAbejas\\Hexagono.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Hexagono.cs",
+              "RelativeToolTip": "PanalAbejas\\Hexagono.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:53:03.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Form1.cs",
+              "RelativeDocumentMoniker": "PanalAbejas\\Form1.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\PRIMER_PARCIAL\\PanalAbejas\\PanalAbejas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PanalAbejas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:11:23.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
